@@ -1,0 +1,31 @@
+.btn {
+    position: absolute;
+    top: 70px;
+}
+#canvas {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+#can {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+#number {
+    position: absolute;
+    z-index: 2;
+
+}
+#number2 {
+    position: absolute;
+    z-index: 2;
+    top: 35px;
+
+}
